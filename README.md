@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Reshma Hegde
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning Pyhton programming,
