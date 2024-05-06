@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Reshma Hegde
-- 🌱 I’m currently learning Pyhton programming,
+- 👋 Hi, I’m Reshma Hegde.
